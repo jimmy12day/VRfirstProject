@@ -1,0 +1,13 @@
+Combat VR Sickness:
+[Tip#1] 
+Respond accurately to the user's movements at all times, preferrably near typical human locomotion speeds.Strive for zero latency, especially in head tracking.
+[Tip#2] 
+Maintain frame rate equal to or greater than the hardware refresh rate, to avoid judder.90fps is considered the minimum comfortable frame rate.
+[Tip#3]
+Give users the opportunity to calibrate stereo offset or interupilllary distance.
+[Tip#4]
+Avoid moving objects that take up a large portion of the user's field of view, to prevent feelings of self-motion.
+[Tip#5]
+Make acceleration infrequent and short, preferably instantaneous.
+[Tip#6]
+In teleporting, provide adequate visual cues to retain bearings and preserve original orientation.
